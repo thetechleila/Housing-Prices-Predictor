@@ -5,15 +5,16 @@ ___
 
 This project contains the process of creating machine learning models that use advanced regression techniques to predict the costs of individual homes in Ames, Iowa (USA) through the transformation of 79 features available in the [Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset).
 
-The project will be broken down into 4 phases, each housed in its own Jupyter notebook:
+The project will be broken down into 4 phases, each housed in its own Jupyter notebook in the folder labled "code."
 
 
-### *Phase 1:* Exploratory Data Analysis (EDA)
+### **Exploratory Data Analysis (EDA)**
 
 Implementation of univariate, bivariate, and multivariate exploratory analyses and creation of relevant visualizations/graphs that inspect possible relationships between the several predictor features.
+(EDA.ipynb)
 
 
-### *Phase 2:* Data Transformation 
+### **Data Transformation** 
 *(Data Cleaning, Data Wrangling/Pre-Processing)* 
 
 Techniques utilized include, but are not limited to:
@@ -23,17 +24,20 @@ Techniques utilized include, but are not limited to:
 * Removing unnecessary columns
 * Potentially fixing incorrectly formatted data
 * Removing outliers
+(transformation.ipynb)
 
 
-### *Phase 3:* Data Model Creation, Hyper-parameter Search, and Model Evaluation
+### **Data Model Creation, Hyper-parameter Search, and Model Evaluation**
 * Create train-test-splits
 * Implement a classifier(s) such as Random Forest or Gradient Boosting
 * Hyper-parameter tuning via Randomized Search
 * Re-training of models after hyper-parameter tuning
 * Determination of accuracy scores and selection of model with the best performance
 
+(model.ipynb)
 
-###  *Phase 4:* Predictions
+
+###  **Predictions**
 
 Application of the trained machine learning algorithm(s) on the pre-existing test housing data set to caluclate the costs of each home.
 ___
