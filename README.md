@@ -1,7 +1,7 @@
 ![Banner](https://github.com/thetechleila/Housing-Prices-Predictor/blob/main/images/Housing%20Prices%20Predictor_Banner.png)
 ___
 
-## **Project Overview**
+# **Project Overview**
 
 This project contains the process of creating machine learning models that use advanced regression techniques to predict the costs of individual homes in Ames, Iowa (USA) through the transformation of 79 features available in the [Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset).
 
@@ -51,7 +51,7 @@ ___
 
 ___
 
-## **Data Overview**
+# **Data Overview**
 
 ___
 ### *Numeric Features*
