@@ -1,4 +1,4 @@
-![Banner](/Users/sa14/Desktop/HousePricesKaggle/images/Housing Prices Predictor_Banner.png)
+![Banner](https://github.com/thetechleila/Housing-Prices-Predictor/blob/main/images/Housing%20Prices%20Predictor_Banner.png)
 
 # Housing Prices Predictor 
 
