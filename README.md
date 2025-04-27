@@ -1,7 +1,4 @@
 ![Banner](https://github.com/thetechleila/Housing-Prices-Predictor/blob/main/images/Housing%20Prices%20Predictor_Banner.png)
-
-# Housing Prices Predictor 
-
 ___
 
 ## **Project Overview**
@@ -17,7 +14,7 @@ Implementation of univariate, bivariate, and multivariate exploratory analyses a
 
 
 ### *Phase 2:* Data Transformation 
-### *(Data Cleaning, Data Wrangling/Pre-Processing)* 
+*(Data Cleaning, Data Wrangling/Pre-Processing)* 
 
 Techniques utilized include, but are not limited to:
 
@@ -59,7 +56,7 @@ ___
 ___
 ### *Numeric Features*
 
-	**SalePrice:** The property's sale price in dollars. This is the target variable that this project aims to predict.
+**SalePrice:** The property's sale price in dollars. This is the target variable that this project aims to predict.
 
 * **MSSubClass**: The building class
 * **LotFrontage**: Linear feet of street connected to property
