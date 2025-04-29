@@ -65,7 +65,6 @@ ___
 * **MSSubClass**: The building class
 * **LotFrontage**: Linear feet of street connected to property
 * **LotArea**: Lot size in square feet
-* **Street**: Type of road access
 * **OverallQual**: Overall material and finish quality
 * **OverallCond**: Overall condition rating
 * **YearBuilt**: Original construction date
@@ -105,6 +104,7 @@ ___
 ### *Categorical Features*
 
 * **MSZoning**: The general zoning classification
+* **Street**: Type of road access
 * **Alley**: Type of alley access
 * **LotShape**: General shape of property
 * **LandContour**: Flatness of the property
